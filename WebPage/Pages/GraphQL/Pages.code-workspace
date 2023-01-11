@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Pages",
+			"path": ".."
+		},
+		{
+			"name": "Images",
+			"path": "../../Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pages"
+	}
+}

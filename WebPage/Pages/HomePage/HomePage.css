@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url("https://fonts.google.com/specimen/Metal+Mania?query=metal");
+
+.wholesite{
+    background-image: url(/HomePage/matheus-farias-IevEctpkgcg-unsplash.jpg);
+    box-sizing: border-box;
+    font-size: large;
+    font-family: Raleway;
+}
+
+.links{
+    display: inline;
+    text-decoration: none;
+    color: azure;
+    padding: 10px;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.text-heading{
+    color: azure;
+    text-align: center;
+    margin: 2em;
+}
+
+.text{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    margin: 2em;
+}
+
+.text-last-para{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    margin: 3em;
+}
+
+.picture{
+    object-fit: cover;
+    float: left;
+    background-color: transparent;
+}
+
+.indivlink{
+    color: aliceblue;
+}
+
+.socials{
+    display: inline;
+    text-decoration: none;
+    color: azure;
+    list-style: none;
+    padding: 5px;
+    list-style-type: none;
+}

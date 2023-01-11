@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+html{
+    background-image: url(/Discography/Background.jpg);
+    box-sizing: border-box;
+    background-size: cover;
+    font-size: large;
+    font-family: Raleway;
+}
+
+.mainlinks{
+    padding: .5em;
+    text-decoration: none;
+    display: inline;
+    color: azure;
+    text-align: center;
+}
+
+.text{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    margin: 1em;
+    padding: 0;
+    list-style-type: none;
+    font-size: larger;
+}
+
+.buy-album{
+    color: #FAFAD2;
+    border-style: hidden;
+    background-color: transparent;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.socials{
+    color: azure;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+html{
+    background-image: url("/ToursPage/Nightmare.jpg");
+    box-sizing: border-box;
+    background-size: cover;
+    font-size: large;
+    font-family: Raleway;
+}
+
+.mainlinks{
+    padding: .5em;
+    text-decoration: none;
+    display: inline;
+    color: azure;
+    text-align: center;
+}
+
+.storelink{
+    display: inline;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    color: #F0FFFF;
+}
+
+.titletour{
+    color: black;
+}
+
+section{
+    color: azure;
+    border: brown;
+    text-align: center;
+}
+
+.buttons{
+    border-style: none;
+    text-align: center;
+}
+
+.buyTicketsButton{
+    color: #D3D3D3;
+    border-style: none;
+    background-color: transparent;
+    padding: 0;
+    font-size: large;
+}
+
+.buy-ticket-link{
+    text-decoration: none;
+    color: #D3D3D3;
+    font-size: large;
+}
+
+.border{
+    border-style: none;
+}
+
+.socials{
+    color: azure;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+}
